@@ -15,7 +15,7 @@
 #Ho : Mu = 10%
 #Ha : Mu != 10%
 
-#Our analysis relies of the T-Statistic where:
+#Our analysis relies on utilizing the T-Statistic, where:
 #T = (xBar – Mu) / (Sx/sqrt(n))
 
 # We assumed that our data is continuous, that our group is the result of random sampling, 
